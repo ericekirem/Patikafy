@@ -1,4 +1,4 @@
-#Proje Açıklaması
+Proje Açıklaması
 Patikafy Müzik Platformu, belirli sanatçılar ve müzik bilgilerini bir veritabanında saklayarak, bu veriler üzerinde çeşitli sorgulamalar yapmayı amaçlayan bir projedir. Bu proje, veritabanı işlemlerinde SQL kullanımını geliştirmek ve veri sorgulama becerilerini pekiştirmek için tasarlanmıştır.
 
 Proje kapsamında PostgreSQL veritabanı kullanılmış ve sanatçılar hakkında detaylı bilgileri işlemek için çeşitli sorgular gerçekleştirilmiştir.
